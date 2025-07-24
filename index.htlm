@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fixed Fast - Reparación de Celulares</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #0d47a1;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #1976d2;
+      text-align: center;
+      padding: 10px;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    footer {
+      background-color: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    .btn {
+      display: inline-block;
+      background: #1976d2;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+
+    .btn:hover {
+      background: #0b3c91;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Fixed Fast</h1>
+    <p>Reparación profesional de celulares y dispositivos móviles</p>
+  </header>
+
+  <nav>
+    <a href="#servicios">Servicios</a>
+    <a href="#nosotros">Sobre Nosotros</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Cambio de pantallas rotas</li>
+      <li>Reparación de puertos de carga</li>
+      <li>Desbloqueo de celulares</li>
+      <li>Actualización y software</li>
+      <li>Venta de accesorios</li>
+    </ul>
+    <a class="btn" href="#contacto">Solicitar servicio</a>
+  </section>
+
+  <section id="nosotros">
+    <h2>Sobre Fixed Fast</h2>
+    <p>Somos técnicos especializados con años de experiencia en la reparación de celulares de todas las marcas. En Fixed Fast nos comprometemos a devolverte tu equipo en el menor tiempo posible, con garantía y calidad.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>📞 Teléfono: 123-456-789</p>
+    <p>📍 Dirección: Calle Principal 123, Ciudad</p>
+    <p>📧 Email: contacto@fixedfast.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Fixed Fast. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
